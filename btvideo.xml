@@ -26,6 +26,6 @@
 	</languages>
 
 	<updateservers>
-		<server type="extension" priority="1" name="Custom Fields - BT Video Update"><![CDATA[]]></server>	
+		<server type="extension" priority="1" name="Haraka Update Site">https://raw.githubusercontent.com/brianteeman/btvideo/master/manifest.xml</server>
 	</updateservers>
 </extension>
