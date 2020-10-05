@@ -1,4 +1,4 @@
-# Custom field for YouTube and Vimeo
+# Joomla Custom field for YouTube and Vimeo
 The video displays just like a regular embed but approximately 224× faster. Based on the original work of [Paul Irish](https://github.com/paulirish/lite-youtube-embed)
 
 ## Instructions
