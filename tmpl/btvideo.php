@@ -44,6 +44,6 @@ defined('_JEXEC') or die;
         JHtml::_('script', 'plg_fields_btvideo/lite-yt-embed.js', array('version' => 'auto', 'relative' => true), array('defer' => 'defer'));
         ?>
         <lite-youtube videoid="<?php echo $videoidy[1]; ?>" style="background-image: url('https://i.ytimg.com/vi/<?php echo $videoidy[1]; ?>/hqdefault.jpg');">
-	        <div class="lty-playbtn"></div>
+            <button type="button" class="lty-playbtn" title="Play Video"></button>
         </lite-youtube>
     <?php }; ?>
