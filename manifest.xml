@@ -19,6 +19,6 @@
 		</infourl>
 		<maintainer>Brian Teeman</maintainer>
 		<maintainerurl>https://brian.teeman.net</maintainerurl>
-		<targetplatform name="joomla" version="3.[6789]"/>
+		<targetplatform name="joomla" version="((3\.(10|9))|(4\.0))"/>
 	</update>
 </updates>
